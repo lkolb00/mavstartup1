@@ -1,2 +1,0 @@
-# mavstartup1
-sharepoint
