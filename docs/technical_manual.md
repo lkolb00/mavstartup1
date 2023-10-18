@@ -61,7 +61,7 @@
 - Configure fields like below, password should be the same DB\_PASSWORD inside your .env file.
     - Note: If you face Warning like Missing Driver Files, you should click on Download.
 
-![](./images/db_config.png)
+![](./images/db_configgg.png)
 
 - Hit Test Connection
 - If successful, hit Apply -\> OK.
