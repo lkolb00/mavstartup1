@@ -1,0 +1,40 @@
+{
+    "already_registered": "पहले से ही पंजीकृत?",
+    "confirm_password": "पासवर्ड की पुष्टि कीजिये",
+    "dashboard": "डैशबोर्ड",
+    "email": "ईमेल",
+    "forgot_your_password?": "अपना कूट शब्द भूल गए?",
+    "home1": "घर",
+    "login": "लॉग इन करें",
+    "log_in": "लॉग इन",
+    "logout": "लॉग आउट",
+    "log_out": "लॉग आउट",
+    "name": "नाम",
+    "manage_account": "खाते का प्रबंधन करें",
+    "password": "पासवर्ड",
+    "profile": "प्रोफ़ाइल",
+    "register": "पंजीकरण करवाना",
+    "remember_me": "मुझे याद करो",
+    "welcome": "स्वागत हे!",
+    "locale": {
+        "af": "अफ्रीकी",
+        "en": "अंग्रेज़ी",
+        "es": "स्पैनिश",
+        "hi": "हिंदी",
+        "ru": "रूसी",
+        "vi": "वियतनामी"
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About"
+    },
+    "home": {
+        "header": "Welcome to the Vue 3 I18n tutorial!",
+        "created_by": "This tutorial was brought to you by {company}.",
+        "num_visits": "This page hasn't been visited :( | This page has been visited {n} time | This page has been visited {n} times"
+    },
+    "about": {
+        "header": "About us",
+        "donations": "Donations raised: {donations}"
+    }
+}

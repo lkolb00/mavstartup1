@@ -1,0 +1,40 @@
+{
+    "already_registered": "Already registered?",
+    "confirm_password": "Confirm Password",
+    "dashboard": "Dashboard",
+    "email": "Email",
+    "forgot_your_password": "Forgot your password?",
+    "home1": "Home",
+    "login": "Login",
+    "log_in": "Log In",
+    "logout": "Logout",
+    "log_out": "Log Out",
+    "name": "Name",
+    "manage_account": "Manage Account",
+    "password": "Password",
+    "profile": "Profile",
+    "register": "Register",
+    "remember_me": "Remember me",
+    "welcome": "Welcome!",
+    "locale": {
+        "af": "Afrikaans",
+        "en": "Engels",
+        "es": "Spaans",
+        "hi": "Hindi",
+        "ru": "Russies",
+        "vi": "Viëtnamees"
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About"
+    },
+    "home": {
+        "header": "Welcome to the Vue 3 I18n tutorial!",
+        "created_by": "This tutorial was brought to you by {company}.",
+        "num_visits": "This page hasn't been visited :( | This page has been visited {n} time | This page has been visited {n} times"
+    },
+    "about": {
+        "header": "About us",
+        "donations": "Donations raised: {donations}"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "already_registered": "Already registered?",
+    "confirm_password": "Confirm Password",
+    "dashboard": "Dashboard",
+    "email": "Email",
+    "forgot_your_password": "Forgot your password?",
+    "home1": "Home",
+    "login": "Login",
+    "log_in": "Log In",
+    "logout": "Logout",
+    "log_out": "Log Out",
+    "name": "Name",
+    "manage_account": "Manage Account",
+    "password": "Password",
+    "profile": "Profile",
+    "register": "Register",
+    "remember_me": "Remember me",
+    "welcome": "Welcome!",
+  "locale": {
+      "af": "африкаанс",
+      "en": "Английский",
+      "es": "испанский",
+      "hi": "хинди",
+      "ru": "Русский",
+      "vi": "вьетнамский"
+  },
+  "nav": {
+    "home": "Главная",
+    "about": "О нас"
+  },
+  "home": {
+    "header": "Добро пожаловать в руководство Vue 3 I18n!",
+    "created_by": "Это руководство создано для вас компанией {company}.",
+    "num_visits": "Страницу не посещали :( | Страницу посетили {n} раз | Страницу посетили {n} раза | Страницу посетили {n} раз"
+  },
+  "about": {
+    "header": "О нас",
+    "donations": "Пожертвований собрано: {donations}"
+  }
+}
