@@ -54,6 +54,10 @@
     - 'sail shell' if you have already done alias step. The terminal should be like this after you opened the shell:
 
 ![](./images/sail_shell.png)
+- If you receive error such as on your terminal,
+![](./images/laravel.test_error.png)
+- you may want to navigate to docker-compose.yml and change line 2 to laravel.test, similar to what's below
+![](./images/docker-compose.yml_screen.png)
 
 - Now, you are ready to migrate by using 'php artisan migrate'.
 - After successful migration, you should go to PhpStorm to setup to view your actual database. Navigate to the database icon on the top-right corner: ![](RackMultipart20231008-1-ezs34a_html_4e1283393787baf.png)
@@ -61,7 +65,7 @@
 - Configure fields like below, password should be the same DB\_PASSWORD inside your .env file.
     - Note: If you face Warning like Missing Driver Files, you should click on Download.
 
-![](./images/db_configgg.png)
+![](./images/db_config.png)
 
 - Hit Test Connection
 - If successful, hit Apply -\> OK.
